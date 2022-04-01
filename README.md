@@ -1,3 +1,5 @@
+Kata:
+
 Step 1: Create a function called encode() to replace all the lowercase vowels in a given string with numbers according to the following pattern:
 
 a -> 1
